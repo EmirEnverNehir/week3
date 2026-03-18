@@ -1,1 +1,6 @@
-console.log("Hello from seeu")
+
+ 
+
+const dummy =() =>{
+    console.log("Hello from seeu");
+}
